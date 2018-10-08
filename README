@@ -1,0 +1,3 @@
+Simple utility to split large diff into multiple directories, each containing
+a single diff per file plus all the diffs for the files in the current
+directory.
